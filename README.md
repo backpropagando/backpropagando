@@ -35,9 +35,9 @@ Todo el código de los vídeos está en [**backpropagando_resources**](https://g
 <p>
   <img src="https://img.shields.io/badge/Python-0E1015?style=flat-square&logo=python&logoColor=FF5C23" alt="Python">
   <img src="https://img.shields.io/badge/PyTorch-0E1015?style=flat-square&logo=pytorch&logoColor=FF5C23" alt="PyTorch">
-  <img src="https://img.shields.io/badge/scikit--learn-0E1015?style=flat-square&logo=scikitlearn&logoColor=FF5C23" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/scikit--learn-0E1015?style=flat-square" alt="scikit-learn">
   <img src="https://img.shields.io/badge/Hugging_Face-0E1015?style=flat-square&logo=huggingface&logoColor=FF5C23" alt="Hugging Face">
-  <img src="https://img.shields.io/badge/OpenCV-0E1015?style=flat-square&logo=opencv&logoColor=FF5C23" alt="OpenCV">
+  <img src="https://img.shields.io/badge/OpenCV-0E1015?style=flat-square" alt="OpenCV">
   <img src="https://img.shields.io/badge/NumPy-0E1015?style=flat-square&logo=numpy&logoColor=C8F3FF" alt="NumPy">
   <img src="https://img.shields.io/badge/pandas-0E1015?style=flat-square&logo=pandas&logoColor=C8F3FF" alt="pandas">
   <img src="https://img.shields.io/badge/uv-0E1015?style=flat-square&logo=uv&logoColor=C8F3FF" alt="uv">
