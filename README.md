@@ -12,13 +12,12 @@
 
 ## Hola, soy Javier 👋
 
-Soy ingeniero de IA y en **@backpropagando** explico la IA por dentro. Construyo modelos delante de la cámara, enseño las cifras reales (también cuando salen mal) y en el siguiente vídeo los arreglo.
+Soy ingeniero de IA y en **@backpropagando** explico la IA por dentro: de la visión por computador a los LLMs, los VLMs y los agentes. Construyo modelos, los pongo a prueba con datos reales y cuento lo que voy aprendiendo.
 
 > Hablando de IA, aprendiendo constantemente y compartiendo ideas.
 
-- 🔨 **Ahora mismo:** vídeos en los que construyo una IA de cero y la pongo a prueba con datos públicos.
-- 🧠 **Me encanta:** la clasificación, la visión por computador y entender por qué un modelo falla.
-- 💬 **Pregúntame por:** métricas que engañan, datasets desbalanceados y cómo pasar de un notebook a algo que funciona.
+- 🔨 **Ahora mismo:** vídeos en los que construyo una IA y explico cómo funciona por dentro, con el código para que lo pruebes tú.
+- 🧠 **Me interesa:** LLMs, VLMs, agentes, visión por computador y todo lo que pasa dentro de un modelo.
 - 📫 **Escríbeme:** [backpropagando@gmail.com](mailto:backpropagando@gmail.com)
 
 ## 🎬 Vídeos con código
