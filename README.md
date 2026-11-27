@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.gif" alt="@backpropagando · Javier, ingeniero de IA · Pruebo, me equivoco, miro atrás y corrijo" width="100%">
+  <img src="assets/banner.gif" alt="@backpropagando · Javier · IA & Ingeniería · Hablando de IA, aprendiendo constantemente y compartiendo ideas" width="100%">
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 Soy ingeniero de IA y en **@backpropagando** explico la IA por dentro. Construyo modelos delante de la cámara, enseño las cifras reales (también cuando salen mal) y en el siguiente vídeo los arreglo.
 
-> Pruebo, me equivoco, miro atrás y corrijo. Lo mismo que hace una red neuronal cuando aprende.
+> Hablando de IA, aprendiendo constantemente y compartiendo ideas.
 
 - 🔨 **Ahora mismo:** vídeos en los que construyo una IA de cero y la pongo a prueba con datos públicos.
 - 🧠 **Me encanta:** la clasificación, la visión por computador y entender por qué un modelo falla.
